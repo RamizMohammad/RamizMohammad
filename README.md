@@ -81,7 +81,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KobraOp&theme=tokyo-night&hide_border=true" alt="Commit Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamizMohammad&theme=tokyo-night&hide_border=true" alt="Commit Graph" />
 </p>
 
 ---
@@ -91,18 +91,18 @@
 <table align="center">
   <tr>
     <td><a href="https://github.com/KobraOp/Backup_Engine">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=Backup_Engine&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamizMohammad&repo=Backup_Engine&theme=tokyonight" />
     </a></td>
     <td><a href="https://github.com/KobraOp/portfolio">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=portfolio&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamizMohammad&repo=portfolio&theme=tokyonight" />
     </a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/KobraOp/Mr.-Manager">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=Mr.-Manager&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamizMohammad&repo=Mr.-Manager&theme=tokyonight" />
     </a></td>
     <td><a href="https://github.com/KobraOp/BubbleShare">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=BubbleShare&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamizMohammad&repo=BubbleShare&theme=tokyonight" />
     </a></td>
   </tr>
 </table>
@@ -112,7 +112,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KobraOp&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamizMohammad&layout=compact&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=KobraOp&show_icons=true&theme=tokyonight" />
 </p>
 

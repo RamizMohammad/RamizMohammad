@@ -113,7 +113,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamizMohammad&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=KobraOp&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RamizMohammad&show_icons=true&theme=tokyonight" />
 </p>
 
 ---

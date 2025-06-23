@@ -105,6 +105,14 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamizMohammad&repo=BubbleShare&theme=tokyonight" />
     </a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/RamizMohammad/Confess">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamizMohammad&repo=Confess&theme=tokyonight" />
+    </a></td>
+    <td><a href="https://github.com/RamizMohammad/ConfessApp">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamizMohammad&repo=BubbleShare&theme=tokyonight" />
+    </a></td>
+  </tr>
 </table>
 
 ---

@@ -110,7 +110,7 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamizMohammad&repo=Confess&theme=tokyonight" />
     </a></td>
     <td><a href="https://github.com/RamizMohammad/ConfessApp">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamizMohammad&repo=BubbleShare&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamizMohammad&repo=ConfessApp&theme=tokyonight" />
     </a></td>
   </tr>
 </table>

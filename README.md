@@ -11,36 +11,20 @@
 
 <h2 align="center">🌟 Featured Creations</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://buddycode.online" target="_blank">
-        <img src="https://img.shields.io/badge/BuddyCode-Online%20Code%20Editor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-      </a>
-      <p><b>⚡ BuddyCode</b><br>Fast & Reliable Online Code Editor</p>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://www.mohammadramiz.in" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-      </a>
-      <p><b>🌐 Personal Portfolio</b><br>Showcasing my projects & journey</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/KobraOp/Mr.-Manager" target="_blank">
-        <img src="https://img.shields.io/badge/Mr.Manager-Android%20App-000000?style=for-the-badge&logo=android&logoColor=white" />
-      </a>
-      <p><b>📱 Mr. Manager</b><br>Smart Work Order Management App</p>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/KobraOp/BubbleShare" target="_blank">
-        <img src="https://img.shields.io/badge/BubbleShare-File%20Sharing-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-      </a>
-      <p><b>🔗 BubbleShare</b><br>Cross-platform File Sharing Solution</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://buddycode.online" target="_blank">
+    <img src="https://img.shields.io/badge/BuddyCode-Online%20Code%20Editor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  </a>
+  <a href="https://www.mohammadramiz.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/KobraOp/Mr.-Manager" target="_blank">
+    <img src="https://img.shields.io/badge/Mr.Manager-Android%20App-000000?style=for-the-badge&logo=android&logoColor=white" />
+  </a>
+  <a href="https://github.com/KobraOp/BubbleShare" target="_blank">
+    <img src="https://img.shields.io/badge/BubbleShare-File%20Sharing-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 

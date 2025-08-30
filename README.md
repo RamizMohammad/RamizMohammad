@@ -9,43 +9,26 @@
 
 ---
 
-### 🚀 Featured Projects
+<h1 align="center">🚀 My Projects</h1>
 
 <p align="center">
-
-  <!-- BuddyCode -->
-  <a href="https://www.buddycode.online" target="_blank" style="margin: 20px; text-decoration: none;">
-    <img src="https://img.icons8.com/color/96/code-file.png" 
-         alt="BuddyCode" width="120"
-         style="transition: transform 0.3s, box-shadow 0.3s;"
-         onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0px 0px 15px #00bcd4';" 
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
-    <br/>
-    <b>BuddyCode</b>
-  </a>
-
-  <!-- Confess -->
-  <a href="https://play.google.com/store/apps/details?id=in.mohammad.ramiz.confess&pcampaignid=web_share" target="_blank" style="margin: 20px; text-decoration: none;">
-    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/96/external-secret-dating-apps-flaticons-lineal-color-flat-icons.png" 
-         alt="Confess" width="120"
-         style="transition: transform 0.3s, box-shadow 0.3s;"
-         onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0px 0px 15px #ff4081';" 
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
-    <br/>
-    <b>Confess</b>
-  </a>
-
-  <!-- Portfolio -->
-  <a href="https://www.mohammadramiz.in" target="_blank" style="margin: 20px; text-decoration: none;">
-    <img src="https://img.icons8.com/color/96/resume.png" 
-         alt="Portfolio" width="120"
-         style="transition: transform 0.3s, box-shadow 0.3s;"
-         onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0px 0px 15px #4caf50';" 
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
-    <br/>
-    <b>Portfolio</b>
+  <a href="https://www.buddycode.online" target="_blank">
+    <img src="https://img.shields.io/badge/⚡ BuddyCode-0A0A0A?style=for-the-badge&logo=javascript&logoColor=FFD600" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=in.mohammad.ramiz.confess&pcampaignid=web_share" target="_blank">
+    <img src="https://img.shields.io/badge/💌 Confess-FF2D55?style=for-the-badge&logo=google-play&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.mohammadramiz.in" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 

@@ -15,9 +15,6 @@
   <a href="https://buddycode.online" target="_blank">
     <img src="https://img.shields.io/badge/BuddyCode-Online%20Code%20Editor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   </a>
-  <a href="https://www.mohammadramiz.in" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
   <a href="https://github.com/KobraOp/Mr.-Manager" target="_blank">
     <img src="https://img.shields.io/badge/Mr.Manager-Android%20App-000000?style=for-the-badge&logo=android&logoColor=white" />
   </a>

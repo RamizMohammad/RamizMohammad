@@ -23,13 +23,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.mohammadramiz.in" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
-
 ---
 
 <h2 align="center">💼 My Portfolio</h2>

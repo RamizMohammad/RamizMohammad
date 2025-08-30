@@ -7,9 +7,40 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Android+Developer;Python+Backend+Developer;AI+Enthusiast;Full-Stack+Learner" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kobraop&label=Profile+views&color=0e75b6&style=flat" alt="kobraop" />
-</p>
+---
+
+<h2 align="center">🌟 Featured Creations</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://buddycode.online" target="_blank">
+        <img src="https://img.shields.io/badge/BuddyCode-Online%20Code%20Editor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+      </a>
+      <p><b>⚡ BuddyCode</b><br>Fast & Reliable Online Code Editor</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.mohammadramiz.in" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+      <p><b>🌐 Personal Portfolio</b><br>Showcasing my projects & journey</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/KobraOp/Mr.-Manager" target="_blank">
+        <img src="https://img.shields.io/badge/Mr.Manager-Android%20App-000000?style=for-the-badge&logo=android&logoColor=white" />
+      </a>
+      <p><b>📱 Mr. Manager</b><br>Smart Work Order Management App</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/KobraOp/BubbleShare" target="_blank">
+        <img src="https://img.shields.io/badge/BubbleShare-File%20Sharing-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      </a>
+      <p><b>🔗 BubbleShare</b><br>Cross-platform File Sharing Solution</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -24,12 +55,6 @@
 <p align="center">
   🚀 Dive into my personal space on the web – a reflection of my development journey, projects, and passions.  
   From elegant UIs to backend magic, it’s all crafted with ❤️.
-</p>
-
-<p align="center">
-  <a href="https://www.mohammadramiz.in" target="_blank">
-    <img src="https://img.shields.io/badge/View_Site-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -55,7 +80,7 @@
   </table>
 </div>
 
-
+---
 
 ### 🔧 Tools & Tech Stack
 
@@ -147,6 +172,5 @@
 </p>
 
 ---
-
 
 ✨ *Built with ❤️ by Mohammad Ramiz*

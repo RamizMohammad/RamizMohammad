@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1200/0*4kFdX7RumWyEe_V9)](https://www.mohammadramiz.in)
+[![MasterHead](<img width="1918" height="928" alt="portfolio" src="https://github.com/user-attachments/assets/f06327bb-5c06-4300-b284-33b8927c22f5" />)](https://www.mohammadramiz.in)
 
 <h1 align="center">Hi 👋, I'm Mohammad Ramiz</h1>
 <h3 align="center">A passionate Android, Server-side Python, and AI Developer</h3>

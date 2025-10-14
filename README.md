@@ -12,14 +12,20 @@
 <h1 align="center">🚀 My Projects</h1>
 
 <p align="center">
-  <a href="https://www.buddycode.online" target="_blank">
-    <img src="https://img.shields.io/badge/⚡ BuddyCode-0A0A0A?style=for-the-badge&logo=javascript&logoColor=FFD600" />
+  <a href="https://play.google.com/store/apps/details?id=in.mohammad.ramiz.confess&pcampaignid=web_share" target="_blank">
+    <img src="https://img.shields.io/badge/💌 Confess-FF2D55?style=for-the-badge&logo=google-play&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=in.mohammad.ramiz.confess&pcampaignid=web_share" target="_blank">
-    <img src="https://img.shields.io/badge/💌 Confess-FF2D55?style=for-the-badge&logo=google-play&logoColor=white" />
+  <a href="https://www.linkium.space/" target="_blank">
+    <img src="https://img.shields.io/badge/⚡ Linkium-0A0A0A?style=for-the-badge&logo=javascript&logoColor=FFD600" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.buddycode.online" target="_blank">
+    <img src="https://img.shields.io/badge/⚡ BuddyCode-0A0A0A?style=for-the-badge&logo=javascript&logoColor=FFD600" />
   </a>
 </p>
 

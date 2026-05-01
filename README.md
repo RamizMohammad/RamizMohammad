@@ -1,13 +1,21 @@
 <div align="center">
 
+<!-- Animated Gradient Wave Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d0bcff,50:cdd2ff,100:b3c5ff&height=200&section=header&text=Mohammad%20Ramiz&fontSize=52&fontColor=1d1b20&fontAlignY=38&desc=Android%20%C2%B7%20Python%20Backend%20%C2%B7%20AI%20%2F%20ML&descAlignY=58&descColor=2b2245&animation=fadeIn" width="100%" />
 
 <br/>
 
+<!-- Dynamic Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Mono&size=18&duration=2600&pause=900&color=D0BCFF&center=true&vCenter=true&width=620&lines=android+%2B+kotlin+developer;python+backend+%26+fastapi;ai+%2F+ml+%7C+gemini+%7C+llms;building+hostforge+%E2%9C%A6+supplierinv+ai;kaggle+practitioner+%7C+oss+contributor;docker+%C2%B7+swarm+%C2%B7+traefik+%C2%B7+redis" />
 
 <br/><br/>
 
+<!-- 2026 Focus Badge -->
+<img src="https://img.shields.io/badge/2026_Focus-AI--Native%20Mobile%20%C2%B7%20KMP%20%C2%B7%20LLM%20Pipelines-d0bcff?style=for-the-badge&logoColor=381e72&labelColor=2b2245" />
+
+<br/><br/>
+
+<!-- Social Badges -->
 [![Portfolio](https://img.shields.io/badge/◈_Portfolio-d0bcff?style=for-the-badge&logoColor=381e72)](https://www.mohammadramiz.in)
 [![Email](https://img.shields.io/badge/◈_Email-2b2245?style=for-the-badge&logoColor=d0bcff)](mailto:ramizanas6@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-1a2340?style=for-the-badge&logo=linkedin&logoColor=b0c4ff)](https://www.linkedin.com/in/mohammad-ramiz-886468217)
@@ -18,8 +26,16 @@
 
 ---
 
-<!-- <details>
-<summary><b>⌨︎ &nbsp;Click to toggle Terminal View</b></summary>
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RamizMohammad&theme=discord&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+</p>
+
+---
+
+<!-- Interactive Terminal View -->
+<details open>
+<summary><b>⌨️ &nbsp;Click to toggle Terminal View</b></summary>
 
 <br/>
 
@@ -85,7 +101,7 @@ drwxr-xr-x  ai_ml/
 ---
 
 ```bash
-ramiz@dev:~$ docker ps --format "table {{.Names}}\t{{.Status}}\t{{.Ports}}"
+ramiz@dev:~$ docker ps --format "table {{.Names}}\\t{{.Status}}\\t{{.Ports}}"
 ```
 
 ```
@@ -173,7 +189,7 @@ PORTFOLIO  = mohammadramiz.in
 
 </details>
 
---- -->
+---
 
 ## `> whoami`
 
@@ -197,6 +213,7 @@ fun_fact    : Coding is my meditation — Kaggle is my dojo
 ![Android](https://img.shields.io/badge/Android-162b28?style=flat-square&logo=android&logoColor=80d8cb)
 ![Java](https://img.shields.io/badge/Java-2d2516?style=flat-square&logo=openjdk&logoColor=ffd080)
 ![Firebase](https://img.shields.io/badge/Firebase-2d2516?style=flat-square&logo=firebase&logoColor=ffd080)
+![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-2b2245?style=flat-square&logo=kotlin&logoColor=d0bcff)
 
 **Backend & Infra**
 
@@ -208,6 +225,7 @@ fun_fact    : Coding is my meditation — Kaggle is my dojo
 ![Redis](https://img.shields.io/badge/Redis-2d1a1a?style=flat-square&logo=redis&logoColor=ffb3b3)
 ![MongoDB](https://img.shields.io/badge/MongoDB-162b28?style=flat-square&logo=mongodb&logoColor=80d8cb)
 ![MySQL](https://img.shields.io/badge/MySQL-1a2340?style=flat-square&logo=mysql&logoColor=b0c4ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a2340?style=flat-square&logo=postgresql&logoColor=b0c4ff)
 
 **AI / ML**
 
@@ -215,6 +233,8 @@ fun_fact    : Coding is my meditation — Kaggle is my dojo
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2d1a1a?style=flat-square&logo=tensorflow&logoColor=ffb3b3)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2d1a1a?style=flat-square&logo=pytorch&logoColor=ffb3b3)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-2d2516?style=flat-square&logo=scikitlearn&logoColor=ffd080)
+![LangChain](https://img.shields.io/badge/LangChain-2b2245?style=flat-square&logoColor=d0bcff)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-2d2516?style=flat-square&logoColor=ffd080)
 ![Arduino](https://img.shields.io/badge/Arduino-162b28?style=flat-square&logo=arduino&logoColor=80d8cb)
 
 ---
@@ -380,7 +400,12 @@ fun_fact    : Coding is my meditation — Kaggle is my dojo
 
 ---
 
+<!-- Visitor Counter & Dynamic Greeting -->
 <div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=RamizMohammad&color=d0bcff&style=flat-square&label=Profile+Views" alt="Profile views" />
+
+<br/><br/>
 
 ```
 ╔══════════════════════════════════════════════════╗

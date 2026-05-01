@@ -4,17 +4,9 @@
 
 </div>
 
-## `// whoami`
+---
 
-```yaml
-name        : Mohammad Ramiz
-location    : India / Remote · UTC+5:30
-role        : Android · Python Backend · AI/ML
-building    : HostForge · SupplierInv AI
-learning    : KMP · LLM Fine-tuning · RAG Systems
-ask_me      : Android · FastAPI · Gemini OCR · Docker · ML Pipelines
-fun_fact    : Coding is meditation — Kaggle is the dojo
-```
+<img src="https://vercel-readme-server.vercel.app/whoami" width="100%" />
 
 ---
 
@@ -163,17 +155,17 @@ Lightweight Android task & team manager — offline-first architecture with back
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RamizMohammad&show_icons=true&theme=dark&hide_border=true&bg_color=0e0f13&title_color=c8ff00&icon_color=00ffe0&text_color=e8e8f0&ring_color=c8ff00&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=RamizMohammad&show_icons=true&hide_border=true&bg_color=0c0d11&title_color=c8ff00&icon_color=00ffe0&text_color=e8e8f0&ring_color=c8ff00&include_all_commits=true&count_private=true" width="48%" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamizMohammad&layout=compact&theme=dark&hide_border=true&bg_color=0e0f13&title_color=c8ff00&text_color=e8e8f0&langs_count=8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamizMohammad&layout=compact&hide_border=true&bg_color=0c0d11&title_color=c8ff00&text_color=e8e8f0&langs_count=8" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RamizMohammad&theme=dark&hide_border=true&background=0e0f13&ring=c8ff00&fire=ff2cf3&currStreakLabel=c8ff00&sideLabels=6b6b80&dates=6b6b80&border_radius=0&currStreakNum=ffffff&sideNums=ffffff" width="60%" />
+<img src="https://streak-stats.demolab.com?user=RamizMohammad&hide_border=true&background=0c0d11&ring=c8ff00&fire=ff2cf3&currStreakLabel=c8ff00&sideLabels=555566&dates=555566&currStreakNum=ffffff&sideNums=ffffff&stroke=0c0d11" width="60%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RamizMohammad&theme=react-dark&hide_border=true&bg_color=0e0f13&color=c8ff00&line=00ffe0&point=ff2cf3&area=true&area_color=1a2200&custom_title=Commit%20Activity&radius=0" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RamizMohammad&theme=react-dark&hide_border=true&bg_color=0c0d11&color=c8ff00&line=00ffe0&point=ff2cf3&area=true&area_color=1a2200&custom_title=Commit%20Activity&radius=0" width="98%" />
 
 </div>
 

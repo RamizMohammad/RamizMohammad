@@ -1,41 +1,53 @@
 <div align="center">
 
-<!-- Animated Gradient Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d0bcff,50:cdd2ff,100:b3c5ff&height=200&section=header&text=Mohammad%20Ramiz&fontSize=52&fontColor=1d1b20&fontAlignY=38&desc=Android%20%C2%B7%20Python%20Backend%20%C2%B7%20AI%20%2F%20ML&descAlignY=58&descColor=2b2245&animation=fadeIn" width="100%" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  GLITCH WAVE HEADER  —  animated CSS glitch effect feel         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,25:8338ec,50:3a86ff,75:06ffa5,100:ffbe0b&height=220&section=header&text=Mohammad%20Ramiz&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Android%20%C2%B7%20Python%20Backend%20%C2%B7%20AI%20%2F%20ML&descAlignY=56&descColor=cac4d0&animation=fadeIn" width="100%" />
 
 <br/>
 
-<!-- Dynamic Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Mono&size=18&duration=2600&pause=900&color=D0BCFF&center=true&vCenter=true&width=620&lines=android+%2B+kotlin+developer;python+backend+%26+fastapi;ai+%2F+ml+%7C+gemini+%7C+llms;building+hostforge+%E2%9C%A6+supplierinv+ai;kaggle+practitioner+%7C+oss+contributor;docker+%C2%B7+swarm+%C2%B7+traefik+%C2%B7+redis" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  KINETIC TYPOGRAPHY  —  multi-line cycling with cursor blink    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk:wght@700&size=22&duration=2200&pause=700&color=FF006E&center=true&vCenter=true&width=700&lines=building+things+that+shouldn't+exist+yet;android+%2B+kotlin+%7C+python+%2B+fastapi;gemini+ocr+%7C+llm+pipelines+%7C+rag+systems;docker+swarm+%7C+traefik+%7C+redis+orchestration;kaggle+practitioner+%7C+oss+contributor;hostforge+%E2%9C%A6+supplierinv+ai+%E2%9C%A6+confess" />
 
 <br/><br/>
 
-<!-- 2026 Focus Badge -->
-<img src="https://img.shields.io/badge/2026_Focus-AI--Native%20Mobile%20%C2%B7%20KMP%20%C2%B7%20LLM%20Pipelines-d0bcff?style=for-the-badge&logoColor=381e72&labelColor=2b2245" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  2026 FOCUS  —  pill badge with neon glow feel                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://img.shields.io/badge/%F0%9F%94%AE_2026_FOCUS-AI--Native_Mobile_%C2%B7_KMP_%C2%B7_Sub--100ms_LLM_Pipelines-ff006e?style=for-the-badge&logoColor=ffffff&labelColor=1a0a2e" />
 
 <br/><br/>
 
-<!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/◈_Portfolio-d0bcff?style=for-the-badge&logoColor=381e72)](https://www.mohammadramiz.in)
-[![Email](https://img.shields.io/badge/◈_Email-2b2245?style=for-the-badge&logoColor=d0bcff)](mailto:ramizanas6@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-1a2340?style=for-the-badge&logo=linkedin&logoColor=b0c4ff)](https://www.linkedin.com/in/mohammad-ramiz-886468217)
-[![Twitter](https://img.shields.io/badge/◈_Twitter-0a1a28?style=for-the-badge&logo=x&logoColor=6bc8ff)](https://twitter.com/mohammad__ramiz)
-[![Kaggle](https://img.shields.io/badge/◈_Kaggle-162b28?style=for-the-badge&logo=kaggle&logoColor=80d8cb)](https://kaggle.com/kobraop)
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  SOCIALS  —  minimal icon-only, no text clutter                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<a href="https://www.mohammadramiz.in"><img src="https://img.shields.io/badge/%E2%97%89-ff006e?style=for-the-badge&logo=vercel&logoColor=ffffff" /></a>
+<a href="mailto:ramizanas6@gmail.com"><img src="https://img.shields.io/badge/%E2%97%89-8338ec?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>
+<a href="https://www.linkedin.com/in/mohammad-ramiz-886468217"><img src="https://img.shields.io/badge/%E2%97%89-3a86ff?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
+<a href="https://twitter.com/mohammad__ramiz"><img src="https://img.shields.io/badge/%E2%97%89-06ffa5?style=for-the-badge&logo=x&logoColor=1a0a2e" /></a>
+<a href="https://kaggle.com/kobraop"><img src="https://img.shields.io/badge/%E2%97%89-ffbe0b?style=for-the-badge&logo=kaggle&logoColor=1a0a2e" /></a>
 
 </div>
 
 ---
 
-<!-- GitHub Trophies -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  TROPHIES  —  cyberpunk discord theme                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RamizMohammad&theme=discord&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RamizMohammad&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=12&margin-h=12" alt="GitHub Trophies" />
 </p>
 
 ---
 
-<!-- Interactive Terminal View -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  TERMINAL VIEW  —  expanded, interactive, THE signature         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <details open>
-<summary><b>⌨️ &nbsp;Click to toggle Terminal View</b></summary>
+<summary><b>⌨️ &nbsp;run <code>./init_profile</code></b></summary>
 
 <br/>
 
@@ -47,9 +59,35 @@
 └──────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1800&pause=600&color=00FF88&center=true&vCenter=true&width=640&lines=Initializing+profile...+%5BDONE%5D;Loading+stack...+%5BANDROID+%7C+FASTAPI+%7C+AI%2FML%5D;Mounting+projects...+%5B6+services+up%5D;Starting+heatmap+daemon...+%5BOK%5D;Welcome%2C+visitor.+%F0%9F%9F%A2" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code:wght@500&size=14&duration=1600&pause=500&color=06FFA5&center=true&vCenter=true&width=680&lines=Initializing+profile...+%5BOK%5D;Loading+stack...+%5BANDROID+%7C+FASTAPI+%7C+AI%2FML%5D;Mounting+projects...+%5B6+services+healthy%5D;Spawning+heatmap+daemon...+%5BDONE%5D;Welcome+to+the+matrix.+%F0%9F%9F%A2" />
 
 </div>
+
+---
+
+```bash
+ramiz@dev:~$ neofetch
+```
+
+```
+                    'c.           ramiz@dev
+                 ,xNMM.           ─────────
+               .OMMMMo            OS: Android / Python / AI-ML
+               OMMM0,             Host: India / Remote
+     .;loddo:' loolloddol;.       Kernel: curiosity-infinite
+   cKMMMMMMMMMMNWMMMMMMMMMM0:     Uptime: since first hello_world
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.     Packages: 6+ live, ∞ commits
+ XMMMMMMMMMMMMMMMMMMMMMMMX.       Shell: zsh + tmux + vim
+;MMMMMMMMMMMMMMMMMMMMMMMM:        Resolution: 1440p_focus_mode
+:MMMMMMMMMMMMMMMMMMMMMMMM:        DE: Material You (dark)
+.MMMMMMMMMMMMMMMMMMMMMMMMX.       WM: Docker Swarm
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.     Theme: cyberpunk-neon
+ .XMMMMMMMMMMMMMMMMMMMMMMMMMMk    Icons: fluent-outline
+  .XMMMMMMMMMMMMMMMMMMMMMMMMK.    Terminal: alacritty
+    kMMMMMMMMMMMMMMMMMMMMMMd      CPU: brain@overclocked
+     ;KMMMMMMMWXXWMMMMMMMk.       GPU: gemini-vision-pro
+       .cooc,.    .,coo:.         Memory: learning_infinite
+```
 
 ---
 
@@ -77,25 +115,28 @@ ramiz@dev:~$ ls -la ./stack/
 
 ```
 drwxr-xr-x  mobile/
-  ├── [kotlin]      Android native development
-  ├── [java]        Legacy & interop
-  └── [firebase]    Auth · Firestore · FCM
+  ├── [kotlin]      Android native + KMP cross-platform
+  ├── [java]        Legacy interop & maintenance
+  └── [firebase]    Auth · Firestore · FCM · Analytics
 
 drwxr-xr-x  backend/
-  ├── [python]      Primary language
-  ├── [fastapi]     REST APIs & async services
-  ├── [flask]       Lightweight microservices
-  ├── [nodejs]      Real-time & WebSocket
-  ├── [docker]      Containerization & Swarm
-  ├── [redis]       Cache · Queues · Pub-Sub
-  ├── [mongodb]     Primary NoSQL store
-  └── [mysql]       Relational data
+  ├── [python]      Primary runtime
+  ├── [fastapi]     Async REST & GraphQL APIs
+  ├── [flask]       Microservices & webhooks
+  ├── [nodejs]      Real-time WebSocket gateways
+  ├── [docker]      Swarm orchestration
+  ├── [traefik]     Auto TLS & reverse proxy
+  ├── [redis]       Cache · Streams · Pub-Sub
+  ├── [mongodb]     Document store
+  └── [postgresql]  Relational + vector (pgvector)
 
 drwxr-xr-x  ai_ml/
-  ├── [gemini]      OCR · Vision · LLM APIs
-  ├── [tensorflow]  Model training
-  ├── [pytorch]     Deep learning research
-  └── [sklearn]     Classical ML pipelines
+  ├── [gemini]      OCR · Vision · Multimodal LLM
+  ├── [langchain]   RAG pipelines & agents
+  ├── [huggingface] Fine-tuning & inference
+  ├── [tensorflow]  Production model serving
+  ├── [pytorch]     Research & experimentation
+  └── [sklearn]     Classical ML & preprocessing
 ```
 
 ---
@@ -106,48 +147,58 @@ ramiz@dev:~$ docker ps --format "table {{.Names}}\\t{{.Status}}\\t{{.Ports}}"
 
 ```
 NAME              STATUS          PORTS
-confess           ✅ Up            play.google.com → android
-linkium           ✅ Up            linkium.space → :443
-buddycode         ✅ Up            buddycode.online → :443
-hostforge         ✅ Up            github.com/RamizMohammad
-supplierinv-ai    ✅ Up            github.com/RamizMohammad
-mr-manager        ✅ Up            github.com/KobraOp/Mr.-Manager
+confess           🟢 healthy      play.google.com → android
+linkium           🟢 healthy      linkium.space → :443
+buddycode         🟢 healthy      buddycode.online → :443
+hostforge         🟢 healthy      github.com/RamizMohammad
+supplierinv-ai    🟢 healthy      github.com/RamizMohammad
+mr-manager        🟢 healthy      github.com/KobraOp/Mr.-Manager
 ```
 
 ---
 
 ```bash
-ramiz@dev:~$ git log --oneline --graph --all
+ramiz@dev:~$ cat ./projects.yml
 ```
 
+```yaml
+projects:
+  - name: confess
+    emoji: 💌
+    desc: Anonymous confession app — real-time feeds + encrypted delivery
+    stack: [kotlin, firebase, android]
+    live: play.google.com/store/apps/details?id=in.mohammad.ramiz.confess
+
+  - name: linkium
+    emoji: ⚡
+    desc: Smart branded link management — create, track & share at scale
+    stack: [python, fastapi, mongodb]
+    live: www.linkium.space
+
+  - name: buddycode
+    emoji: 🧑‍💻
+    desc: Collaborative real-time coding — pair-program with live cursor sync
+    stack: [nodejs, websockets, docker]
+    live: www.buddycode.online
+
+  - name: hostforge
+    emoji: 🏗️
+    desc: Render-like dev hosting — Swarm + Traefik TLS + Git deploys
+    stack: [fastapi, docker-swarm, traefik, redis]
+    source: github.com/RamizMohammad
+
+  - name: supplierinv-ai
+    emoji: 🤖
+    desc: Gemini OCR invoice-to-PO matching — HSN + fuzzy logic
+    stack: [gemini, fastapi, mongodb, redis]
+    source: github.com/RamizMohammad
+
+  - name: mr-manager
+    emoji: 📋
+    desc: Offline-first Android task manager — background sync engine
+    stack: [kotlin, room, workmanager]
+    source: github.com/KobraOp/Mr.-Manager
 ```
-* [confess]        💌  Anonymous confession app — real-time feeds + encrypted delivery
-* [linkium]        ⚡  Branded short link manager — track & share at scale
-* [buddycode]      🧑‍💻  Real-time pair programming env — live cursor sync
-* [hostforge]      🏗️  Render-like hosting — Swarm + Traefik TLS + Git deploys
-* [supplierinv]    🤖  Gemini OCR invoice-to-PO matching — HSN + fuzzy logic
-* [mr-manager]     📋  Offline-first Android task manager — background sync
-```
-
----
-
-```bash
-ramiz@dev:~$ git heatmap --weeks=26 --color=green
-```
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/00ff88/RamizMohammad" width="98%" alt="Contribution Heatmap" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RamizMohammad&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=aaaaaa&dates=555555&border_radius=0&stroke=1a1a1a&currStreakNum=ffffff&sideNums=ffffff" width="60%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RamizMohammad&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff88&line=00cc66&point=ffffff&area=true&area_color=003322&custom_title=commit+activity+graph&radius=0" width="98%" />
-
-</div>
 
 ---
 
@@ -156,9 +207,10 @@ ramiz@dev:~$ uptime --stats
 ```
 
 ```
-  Projects deployed   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  6+
-  Tech domains        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  3
-  Commits / curiosity ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ∞
+  Projects deployed   ████████████████████░░░░  6+
+  Tech domains        ██████████████░░░░░░░░░░  3
+  Lines of curiosity  ████████████████████████  ∞
+  Coffee consumed     ████████████████████████  ∞
 ```
 
 ---
@@ -191,6 +243,9 @@ PORTFOLIO  = mohammadramiz.in
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  WHOAMI  —  yaml aesthetic, no repetition                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 ## `> whoami`
 
 ```yaml
@@ -205,122 +260,96 @@ fun_fact    : Coding is my meditation — Kaggle is my dojo
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  STACK  —  grouped by domain, no flat badge wall                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 ## `> ls ./stack`
 
-**Mobile**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-2b2245?style=flat-square&logo=kotlin&logoColor=d0bcff)
-![Android](https://img.shields.io/badge/Android-162b28?style=flat-square&logo=android&logoColor=80d8cb)
-![Java](https://img.shields.io/badge/Java-2d2516?style=flat-square&logo=openjdk&logoColor=ffd080)
-![Firebase](https://img.shields.io/badge/Firebase-2d2516?style=flat-square&logo=firebase&logoColor=ffd080)
-![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-2b2245?style=flat-square&logo=kotlin&logoColor=d0bcff)
-
-**Backend & Infra**
-
-![Python](https://img.shields.io/badge/Python-1a2340?style=flat-square&logo=python&logoColor=b0c4ff)
-![FastAPI](https://img.shields.io/badge/FastAPI-162b28?style=flat-square&logo=fastapi&logoColor=80d8cb)
-![Flask](https://img.shields.io/badge/Flask-1d1b20?style=flat-square&logo=flask&logoColor=cac4d0)
-![Node.js](https://img.shields.io/badge/Node.js-182d1c?style=flat-square&logo=nodedotjs&logoColor=a0d8a0)
-![Docker](https://img.shields.io/badge/Docker-1a2340?style=flat-square&logo=docker&logoColor=b0c4ff)
-![Redis](https://img.shields.io/badge/Redis-2d1a1a?style=flat-square&logo=redis&logoColor=ffb3b3)
-![MongoDB](https://img.shields.io/badge/MongoDB-162b28?style=flat-square&logo=mongodb&logoColor=80d8cb)
-![MySQL](https://img.shields.io/badge/MySQL-1a2340?style=flat-square&logo=mysql&logoColor=b0c4ff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a2340?style=flat-square&logo=postgresql&logoColor=b0c4ff)
-
-**AI / ML**
-
-![Gemini](https://img.shields.io/badge/Gemini-2b2245?style=flat-square&logo=google&logoColor=d0bcff)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2d1a1a?style=flat-square&logo=tensorflow&logoColor=ffb3b3)
-![PyTorch](https://img.shields.io/badge/PyTorch-2d1a1a?style=flat-square&logo=pytorch&logoColor=ffb3b3)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-2d2516?style=flat-square&logo=scikitlearn&logoColor=ffd080)
-![LangChain](https://img.shields.io/badge/LangChain-2b2245?style=flat-square&logoColor=d0bcff)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-2d2516?style=flat-square&logoColor=ffd080)
-![Arduino](https://img.shields.io/badge/Arduino-162b28?style=flat-square&logo=arduino&logoColor=80d8cb)
+```
+┌─ MOBILE ─────────────────────────────────────────────┐
+│  Kotlin    Android    Java    Firebase    KMP        │
+└──────────────────────────────────────────────────────┘
+┌─ BACKEND & INFRA ────────────────────────────────────┐
+│  Python    FastAPI    Flask    Node.js    Docker     │
+│  Swarm     Traefik    Redis    MongoDB    PostgreSQL │
+└──────────────────────────────────────────────────────┘
+┌─ AI / ML ────────────────────────────────────────────┐
+│  Gemini    LangChain  HuggingFace  TensorFlow        │
+│  PyTorch   scikit-learn            Arduino           │
+└──────────────────────────────────────────────────────┘
+```
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  PROJECTS  —  clean 2-col grid, no repeated git log             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 ## `> cat ./projects`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💌 &nbsp;Confess
-> Anonymous confession app on Android — real-time feeds, reactions & encrypted delivery.
+### 💌 Confess
+> Anonymous confession app — real-time feeds, reactions & encrypted delivery.
 
-![Kotlin](https://img.shields.io/badge/Kotlin-2b2245?style=flat-square&logo=kotlin&logoColor=d0bcff)
-![Firebase](https://img.shields.io/badge/Firebase-2d2516?style=flat-square&logo=firebase&logoColor=ffd080)
-![Android](https://img.shields.io/badge/Android-162b28?style=flat-square&logo=android&logoColor=80d8cb)
+`Kotlin` · `Firebase` · `Android`
 
-[![Play Store](https://img.shields.io/badge/▶_Play_Store-d0bcff?style=flat-square&logoColor=381e72)](https://play.google.com/store/apps/details?id=in.mohammad.ramiz.confess)
+[▶ Play Store](https://play.google.com/store/apps/details?id=in.mohammad.ramiz.confess)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ &nbsp;Linkium
+### ⚡ Linkium
 > Smart branded link management — create, track & share short links at scale.
 
-![Python](https://img.shields.io/badge/Python-1a2340?style=flat-square&logo=python&logoColor=b0c4ff)
-![FastAPI](https://img.shields.io/badge/FastAPI-162b28?style=flat-square&logo=fastapi&logoColor=80d8cb)
-![MongoDB](https://img.shields.io/badge/MongoDB-162b28?style=flat-square&logo=mongodb&logoColor=80d8cb)
+`Python` · `FastAPI` · `MongoDB`
 
-[![Live](https://img.shields.io/badge/▶_Live_Site-80d8cb?style=flat-square&logoColor=0d1f1b)](https://www.linkium.space)
+[▶ Live Site](https://www.linkium.space)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 🧑‍💻 &nbsp;BuddyCode
-> Collaborative real-time coding env — pair-program in any language with live cursor sync.
+### 🧑‍💻 BuddyCode
+> Collaborative real-time coding env — pair-program with live cursor sync.
 
-![Node.js](https://img.shields.io/badge/Node.js-182d1c?style=flat-square&logo=nodedotjs&logoColor=a0d8a0)
-![WebSockets](https://img.shields.io/badge/WebSockets-1a2340?style=flat-square&logoColor=b0c4ff)
-![Docker](https://img.shields.io/badge/Docker-1a2340?style=flat-square&logo=docker&logoColor=b0c4ff)
+`Node.js` · `WebSockets` · `Docker`
 
-[![Live](https://img.shields.io/badge/▶_Live_Site-b0c4ff?style=flat-square&logoColor=0a1230)](https://www.buddycode.online)
+[▶ Live Site](https://www.buddycode.online)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏗️ &nbsp;HostForge
-> Render-like dev hosting — Docker Swarm + Traefik TLS + Git deploys + free tier.
+### 🏗️ HostForge
+> Render-like dev hosting — Docker Swarm + Traefik TLS + Git deploys.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-162b28?style=flat-square&logo=fastapi&logoColor=80d8cb)
-![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-1a2340?style=flat-square&logo=docker&logoColor=b0c4ff)
-![Traefik](https://img.shields.io/badge/Traefik-2d2516?style=flat-square&logoColor=ffd080)
-![Redis](https://img.shields.io/badge/Redis-2d1a1a?style=flat-square&logo=redis&logoColor=ffb3b3)
+`FastAPI` · `Docker Swarm` · `Traefik` · `Redis`
 
-[![GitHub](https://img.shields.io/badge/▶_Source-ffd080?style=flat-square&logoColor=1a1500)](https://github.com/RamizMohammad)
+[▶ Source](https://github.com/RamizMohammad)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 &nbsp;SupplierInv AI
-> Gemini OCR invoice-to-PO matching — HSN validation, fuzzy logic, FastAPI + Redis.
+### 🤖 SupplierInv AI
+> Gemini OCR invoice-to-PO matching — HSN validation, fuzzy logic.
 
-![Gemini](https://img.shields.io/badge/Gemini-2b2245?style=flat-square&logo=google&logoColor=d0bcff)
-![FastAPI](https://img.shields.io/badge/FastAPI-162b28?style=flat-square&logo=fastapi&logoColor=80d8cb)
-![MongoDB](https://img.shields.io/badge/MongoDB-162b28?style=flat-square&logo=mongodb&logoColor=80d8cb)
-![Redis](https://img.shields.io/badge/Redis-2d1a1a?style=flat-square&logo=redis&logoColor=ffb3b3)
+`Gemini` · `FastAPI` · `MongoDB` · `Redis`
 
-[![GitHub](https://img.shields.io/badge/▶_Source-d0bcff?style=flat-square&logoColor=1a0040)](https://github.com/RamizMohammad)
+[▶ Source](https://github.com/RamizMohammad)
 
 </td>
 <td width="50%" valign="top">
 
-### 📋 &nbsp;Mr. Manager
-> Lightweight Android task & team manager — offline-first with background sync engine.
+### 📋 Mr. Manager
+> Offline-first Android task manager — background sync engine.
 
-![Kotlin](https://img.shields.io/badge/Kotlin-2b2245?style=flat-square&logo=kotlin&logoColor=d0bcff)
-![Room](https://img.shields.io/badge/Room-1a2340?style=flat-square&logoColor=b0c4ff)
-![WorkManager](https://img.shields.io/badge/WorkManager-162b28?style=flat-square&logoColor=80d8cb)
+`Kotlin` · `Room` · `WorkManager`
 
-[![GitHub](https://img.shields.io/badge/▶_Source-a0d8a0?style=flat-square&logoColor=0d200f)](https://github.com/KobraOp/Mr.-Manager)
+[▶ Source](https://github.com/KobraOp/Mr.-Manager)
 
 </td>
 </tr>
@@ -328,91 +357,79 @@ fun_fact    : Coding is my meditation — Kaggle is my dojo
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  GITHUB STATS  —  single row, no duplicate graphs               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 ## `> git log --stat`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RamizMohammad&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1d1b20&title_color=d0bcff&icon_color=cdd2ff&text_color=cac4d0&border_radius=16&ring_color=d0bcff&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=RamizMohammad&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1d1b20&title_color=ff006e&icon_color=8338ec&text_color=cac4d0&border_radius=16&ring_color=ff006e&include_all_commits=true&count_private=true" width="48%" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamizMohammad&layout=compact&theme=material-palenight&hide_border=true&bg_color=1d1b20&title_color=d0bcff&text_color=cac4d0&border_radius=16&langs_count=8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamizMohammad&layout=compact&theme=material-palenight&hide_border=true&bg_color=1d1b20&title_color=ff006e&text_color=cac4d0&border_radius=16&langs_count=8" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RamizMohammad&theme=material-palenight&hide_border=true&background=1d1b20&ring=D0BCFF&fire=CDD2FF&currStreakLabel=B0C4FF&sideLabels=CAC4D0&dates=79747E&border_radius=16&stroke=2b2631&currStreakNum=e6e0e9&sideNums=e6e0e9" width="60%" />
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/7b61ff/RamizMohammad" width="98%" alt="Mohammad Ramiz's Contribution Heatmap" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RamizMohammad&theme=react-dark&hide_border=true&bg_color=1d1b20&color=d0bcff&line=7b61ff&point=cdd2ff&area=true&area_color=2b2245&custom_title=Commit%20Activity%20Graph&radius=6" width="98%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RamizMohammad&theme=material-palenight&hide_border=true&background=1d1b20&ring=FF006E&fire=8338EC&currStreakLabel=3A86FF&sideLabels=CAC4D0&dates=79747E&border_radius=16&stroke=2b2631&currStreakNum=e6e0e9&sideNums=e6e0e9" width="60%" />
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  CONTRIBUTION HEATMAP  —  ONE clean graph, not repeated         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+## `> git heatmap --weeks=52`
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/ff006e/RamizMohammad" width="98%" alt="Mohammad Ramiz's Contribution Heatmap" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RamizMohammad&theme=react-dark&hide_border=true&bg_color=1d1b20&color=ff006e&line=8338ec&point=3a86ff&area=true&area_color=2b2245&custom_title=Commit%20Activity%20Graph&radius=6" width="98%" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  QUICK STATS  —  minimal, no badge overload                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 ## `> git shortlog --summary`
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-![6+](https://img.shields.io/badge/6+-d0bcff?style=for-the-badge&labelColor=2b2245)
-
-**Live Projects**
-
-</td>
-<td align="center" width="33%">
-
-![3](https://img.shields.io/badge/3-80d8cb?style=for-the-badge&labelColor=162b28)
-
-**Tech Domains**
-
-</td>
-<td align="center" width="33%">
-
-![∞](https://img.shields.io/badge/%E2%88%9E-ffd080?style=for-the-badge&labelColor=2d2516)
-
-**Commits / curiosity**
-
-</td>
-</tr>
-</table>
+| | | |
+|:---:|:---:|:---:|
+| **6+** | **3** | **∞** |
+| Live Projects | Tech Domains | Commits / Curiosity |
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  SOCIALS  —  text links, no badge wall                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 ## `> whoami --social`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a1628?style=for-the-badge&logo=linkedin&logoColor=6ba3ff)](https://www.linkedin.com/in/mohammad-ramiz-886468217)
-[![Twitter](https://img.shields.io/badge/Twitter-0a1a28?style=for-the-badge&logo=x&logoColor=6bc8ff)](https://twitter.com/mohammad__ramiz)
-[![Kaggle](https://img.shields.io/badge/Kaggle-0a1e28?style=for-the-badge&logo=kaggle&logoColor=6be0ff)](https://kaggle.com/kobraop)
-[![Gmail](https://img.shields.io/badge/Gmail-280a0a?style=for-the-badge&logo=gmail&logoColor=ff9090)](mailto:ramizanas6@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1d1b20?style=for-the-badge&logo=vercel&logoColor=cac4d0)](https://www.mohammadramiz.in)
+[`LinkedIn`](https://www.linkedin.com/in/mohammad-ramiz-886468217) · [`Twitter`](https://twitter.com/mohammad__ramiz) · [`Kaggle`](https://kaggle.com/kobraop) · [`Email`](mailto:ramizanas6@gmail.com) · [`Portfolio`](https://www.mohammadramiz.in)
 
-</div>
+<br/>
 
----
-
-<!-- Visitor Counter & Dynamic Greeting -->
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=RamizMohammad&color=d0bcff&style=flat-square&label=Profile+Views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=RamizMohammad&color=ff006e&style=flat-square&label=visitors" alt="Profile views" />
 
 <br/><br/>
 
 ```
 ╔══════════════════════════════════════════════════╗
-║   Crafted with Material You  ✦  Mohammad Ramiz   ║
+║   Crafted with chaos & curiosity  ✦  ramiz       ║
 ╚══════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d1b20,50:2b2245,100:1d1b20&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffbe0b,50:06ffa5,100:3a86ff&height=120&section=footer" width="100%" />
 
 </div>

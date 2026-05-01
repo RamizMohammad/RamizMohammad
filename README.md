@@ -162,9 +162,9 @@ Lightweight Android task & team manager — offline-first architecture with back
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RamizMohammad&show_icons=true&hide_border=true&bg_color=0c0d11&title_color=c8ff00&icon_color=00ffe0&text_color=e8e8f0&ring_color=c8ff00&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats-ramiz.vercel.app/api?username=RamizMohammad&show_icons=true&hide_border=true&bg_color=0c0d11&title_color=c8ff00&icon_color=00ffe0&text_color=e8e8f0&ring_color=c8ff00&include_all_commits=true&count_private=true" width="48%" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamizMohammad&layout=compact&hide_border=true&bg_color=0c0d11&title_color=c8ff00&text_color=e8e8f0&langs_count=8" width="48%" />
+<img src="https://github-readme-stats-ramiz.vercel.app/api/top-langs/?username=RamizMohammad&layout=compact&hide_border=true&bg_color=0c0d11&title_color=c8ff00&text_color=e8e8f0&langs_count=8" width="48%" />
 
 <br/><br/>
 

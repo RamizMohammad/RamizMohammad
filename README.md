@@ -3,11 +3,7 @@
 <img src="https://vercel-readme-server.vercel.app/header" width="100%" />
 
 </div>
-
----
-
 ## `// whoami`
-
 ```yaml
 name        : Mohammad Ramiz
 location    : India / Remote · UTC+5:30

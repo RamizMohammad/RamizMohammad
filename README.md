@@ -4,9 +4,17 @@
 
 </div>
 
----
+## `// whoami`
 
-<img src="https://vercel-readme-server.vercel.app/whoami" width="100%" />
+```yaml
+name        : Mohammad Ramiz
+location    : India / Remote · UTC+5:30
+role        : Android · Python Backend · AI/ML
+building    : HostForge · SupplierInv AI
+learning    : KMP · LLM Fine-tuning · RAG Systems
+ask_me      : Android · FastAPI · Gemini OCR · Docker · ML Pipelines
+fun_fact    : Coding is meditation — Kaggle is the dojo
+```
 
 ---
 

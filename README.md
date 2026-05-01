@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://vercel-readme-server.vercel.app/card" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060608,30:0e0f13,60:1a0030,100:0d1a0d&height=220&section=header&text=MOHAMMAD%20RAMIZ&fontSize=52&fontColor=c8ff00&fontAlignY=40&desc=Android%20%C2%B7%20Python%20Backend%20%C2%B7%20AI%20%2F%20ML&descAlignY=62&descColor=00ffe0&animation=fadeIn" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2400&pause=800&color=C8FF00&center=true&vCenter=true&width=680&lines=android+%2B+kotlin+developer;python+backend+%26+fastapi;ai+%2F+ml+%7C+gemini+%7C+llm+pipelines;building+hostforge+%E2%97%88+supplierinv+ai;docker+%C2%B7+swarm+%C2%B7+traefik+%C2%B7+redis;kaggle+practitioner+%7C+oss+contributor" />
 
 </div>
 
@@ -227,8 +231,10 @@ Lightweight Android task & team manager — offline-first architecture with back
 
 <div align="center">
 
-```
-crafted with ◈ by Mohammad Ramiz — 2025  ·  Android · Python · AI  ·  India / Remote
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=555566&center=true&vCenter=true&width=600&lines=crafted+with+%E2%97%88+by+Mohammad+Ramiz+%E2%80%94+2025;Android+%C2%B7+Python+%C2%B7+AI+%C2%B7+India+%2F+Remote;always+building%2C+always+learning." />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1a0d,30:1a0030,60:0e0f13,100:060608&height=120&section=footer" width="100%" />
 
 </div>

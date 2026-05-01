@@ -1,3 +1,4 @@
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d0bcff,50:cdd2ff,100:b3c5ff&height=200&section=header&text=Mohammad%20Ramiz&fontSize=52&fontColor=1d1b20&fontAlignY=38&desc=Android%20%C2%B7%20Python%20Backend%20%C2%B7%20AI%20%2F%20ML&descAlignY=58&descColor=2
 <!DOCTYPE html>
 <html lang="en">
 <head>
